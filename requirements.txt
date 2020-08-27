@@ -15,7 +15,7 @@ idna==2.10
 isort==4.3.21
 itsdangerous==1.1.0
 jinja2==2.11.2
-libcxx==10.0.0
+libcxx
 libedit
 libffi==3.3
 markupsafe==1.1.1
